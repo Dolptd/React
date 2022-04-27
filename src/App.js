@@ -1,3 +1,4 @@
+import React from "react";
 import { Navbar, NavbarBrand } from "reactstrap";
 import "./App.css";
 
@@ -6,7 +7,7 @@ function App() {
     <div className="App">
       <Navbar dark color="primary">
         <div className="container">
-          <NavbarBrand href="/">ANGEL</NavbarBrand>
+          <NavbarBrand href="/">ANGEL</NavbarBrand>s
         </div>
       </Navbar>
     </div>
